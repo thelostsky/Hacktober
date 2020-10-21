@@ -1,3 +1,3 @@
 # Hacktober
-
-learn about open source
+Chinese Orchestra Trivia Quiz
+Gain more knowledge of Dunman High CO
